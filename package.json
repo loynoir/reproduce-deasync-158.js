@@ -1,0 +1,14 @@
+{
+  "name": "reproduce-deasync-158",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.cjs"
+  },
+  "author": "loynoir",
+  "license": "ISC",
+  "dependencies": {
+    "deasync": "^0.1.23"
+  }
+}
